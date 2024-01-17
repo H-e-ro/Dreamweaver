@@ -15,7 +15,7 @@
 Features
 ========
 
-Syntax highlighting to all newer PHP <=8.2.6 versions. It adds a plain PHP file in File opener.
+Syntax highlighting to all newer PHP <=8.2.6 versions.
 
 Version History
 ===============
